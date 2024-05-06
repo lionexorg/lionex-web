@@ -42,8 +42,8 @@ Being part of an Internet exchange like LIonNEX and peering your network traffic
 
 ## IX Model
 
-LIONEX shall be incorporated as a company limited by guarantee and is governed by it’s members who are the Network Operators, content providers and other related corporations and individuals.
+LIONEX is incorporated as a company limited by guarantee and is governed by it’s members who are the Network Operators, content providers and other related corporations and individuals.
 
-LIONEX shall be an open and neutral Internet Exchange platform designed to facilitate the exchange of Internet traffic amongst it’s members, thereby improving traffic routing efficiency in Lilongwe. LIONEX shall be established under global best practices. LIONEX shall ensure operational stability, reliability, scalability and sustainability.
+LIONEX is an open and neutral Internet Exchange platform designed to facilitate the exchange of Internet traffic amongst it’s members, thereby improving traffic routing efficiency in Lilongwe. LIONEX shall be established under global best practices. LIONEX shall ensure operational stability, reliability, scalability and sustainability.
 
 
