@@ -1,15 +1,12 @@
-local_backend: true
-
 backend:
   name: git-gateway
-  branc: main
+  branch: main
 
-site_url: https://lionex.com
+site_url: https://lionex.org
 
 publish_mode: editorial_workflow
-media_folder: static/images/uploads
-public_folder: "/images/uplaods"
-
+media_folder: "static/images/uploads"
+public_folder: "images/uploads"
 collections:
   - name: "about"
     label: "About"
@@ -17,7 +14,7 @@ collections:
     create: true
     slug:  "{{year}}-{{month}}-{{day}}-{{slug}}"
     fields: 
-      - { label: "Title", name:"title", widget: "string"}
+      - { label: "Title", name: "title", widget: "string"}
       - { label: "Publish Date", name: "date", widget: "datetime"}
       - { label: "Body", name: "body", widget: "markdown"}
 
