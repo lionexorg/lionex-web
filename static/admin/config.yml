@@ -1,0 +1,23 @@
+local_backend: true
+
+backend:
+  name: git-gateway
+  branc: main
+
+site_url: https://lionex.com
+
+publish_mode: editorial_workflow
+media_folder: static/images/uploads
+public_folder: "/images/uplaods"
+
+collections:
+  - name: "about"
+    label: "About"
+    folder: "content"
+    create: true
+    slug:  "{{year}}-{{month}}-{{day}}-{{slug}}"
+    fields: 
+      - { label: "Title", name:"title", widget: "string"}
+      - { label: "Publish Date", name: "date", widget: "datetime"}
+      - { label: "Body", name: "body", widget: "markdown"}
+
