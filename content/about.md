@@ -19,7 +19,7 @@ The Lilongwe Open Neutral Internet Exchange is registered in Malawi as a company
 
 Adding peering and other interconnection services to your network management can considerably improve performance, control and costs.
 
-Being part of an Internet exchange like LIonNEX and peering your network traffic has many benefits;
+Being part of an Internet exchange like LIONEX and peering your network traffic has many benefits;
 
 * Multiple services and opportunities with a single connection, reaching many networks at once
 * Cost effective solution when compared to other
