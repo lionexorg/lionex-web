@@ -1,8 +1,9 @@
 ---
-title: 'Services'
-description: 'We offer a range of services to help your business'
-intro_image: "images/illustrations/reading.svg"
+title: Services
+description: We offer a range of services to help your business
+intro_image: images/illustrations/reading.svg
 intro_image_absolute: true
+weight: 3
 intro_image_hide_on_mobile: false
 ---
 
