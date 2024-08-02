@@ -2,33 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Services on Lilongwe Open and Neutral Internet Exchange</title>
-    <link>/services/</link>
+    <link>//localhost:1313/services/</link>
     <description>Recent content in Services on Lilongwe Open and Neutral Internet Exchange</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="/services/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Jun 2024 23:22:00 +0000</lastBuildDate>
+    <atom:link href="//localhost:1313/services/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Get Connected</title>
-      <link>/services/get_connected/</link>
-      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
-      
-      <guid>/services/get_connected/</guid>
-      <description>Getting connected to the LIONEX is easy. Just follow these simple steps!
- Getting Connected  Acquire an Autonomous System Number (ASN) and Public IP address space from AFRINIC(link this) or another Regional Internet Registry (RIR). Send us an introductory message through our online contact form which includes your ASN and other basic data about your company/organization. Please also indicate which services you wish to receive from us. We will reply as soon as possible and provide guidance throughout the rest of the joining process.</description>
+      <link>//localhost:1313/services/get_connected/</link>
+      <pubDate>Thu, 13 Jun 2024 23:22:00 +0000</pubDate>
+      <guid>//localhost:1313/services/get_connected/</guid>
+      <description>Getting connected to the LIONEX is easy. Just follow these simple steps!&#xA;Getting Connected Acquire an Autonomous System Number (ASN) and Public IP address space from AFRINIC(link this) or another Regional Internet Registry (RIR). Send us an introductory message through our online contact form which includes your ASN and other basic data about your company/organization. Please also indicate which services you wish to receive from us. We will reply as soon as possible and provide guidance throughout the rest of the joining process.</description>
     </item>
-    
     <item>
       <title>Services &amp; Membership</title>
-      <link>/services/services-members/</link>
+      <link>//localhost:1313/services/services-members/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
-      
-      <guid>/services/services-members/</guid>
-      <description>Service   LIONEX provides neutral, reliable, high-speed peering infrastructure.
-  We support bilateral and multilateral peering via IPv4 and IPv6.
-  Our diverse membership includes local access providers, regional carriers, content providers, the Root DNS, and more.
-  Members   Members must have their own network infrastructure, autonomous system number (ASN) and block of IPv4 and/or IPv6 address space.
-  Peering members shall be Network Operators such as ISPs, ICPs, CDNs and any entity that needs to exchange traffic with the other IXP members</description>
+      <guid>//localhost:1313/services/services-members/</guid>
+      <description>Service LIONEX provides neutral, reliable, high-speed peering infrastructure.&#xA;We support bilateral and multilateral peering via IPv4 and IPv6.&#xA;Our diverse membership includes local access providers, regional carriers, content providers, the Root DNS, and more.&#xA;Members Members must have their own network infrastructure, autonomous system number (ASN) and block of IPv4 and/or IPv6 address space.&#xA;Peering members shall be Network Operators such as ISPs, ICPs, CDNs and any entity that needs to exchange traffic with the other IXP members</description>
     </item>
-    
   </channel>
 </rss>

@@ -2,72 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homepage on Lilongwe Open and Neutral Internet Exchange</title>
-    <link>/</link>
+    <link>//localhost:1313/</link>
     <description>Recent content in Homepage on Lilongwe Open and Neutral Internet Exchange</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 28 Nov 2018 15:14:39 +1000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 02 Aug 2024 08:16:26 -0700</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Press Release: Malawi launches first Open Neutral Internet Exchange Point</title>
+      <link>//localhost:1313/blog/announcement/annoucement/</link>
+      <pubDate>Fri, 02 Aug 2024 08:16:26 -0700</pubDate>
+      <guid>//localhost:1313/blog/announcement/annoucement/</guid>
+      <description>The Government of Malawi, in collaboration with key stakeholders in the technology and telecommunications sectors, is proud to announce activation of the country’s first neutral internet exchange point, the Lilongwe Open Neutral Exchange Point (LIONEX) that is located in the Capital, Lilongwe. LIONEX is poised to revolutionize internet connectivity within the country and across the region</description>
+    </item>
     <item>
       <title>Get Connected</title>
-      <link>/services/get_connected/</link>
-      <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
-      
-      <guid>/services/get_connected/</guid>
-      <description>Getting connected to the LIONEX is easy. Just follow these simple steps!
- Getting Connected  Acquire an Autonomous System Number (ASN) and Public IP address space from AFRINIC(link this) or another Regional Internet Registry (RIR). Send us an introductory message through our online contact form which includes your ASN and other basic data about your company/organization. Please also indicate which services you wish to receive from us. We will reply as soon as possible and provide guidance throughout the rest of the joining process.</description>
+      <link>//localhost:1313/services/get_connected/</link>
+      <pubDate>Thu, 13 Jun 2024 23:22:00 +0000</pubDate>
+      <guid>//localhost:1313/services/get_connected/</guid>
+      <description>Getting connected to the LIONEX is easy. Just follow these simple steps!&#xA;Getting Connected Acquire an Autonomous System Number (ASN) and Public IP address space from AFRINIC(link this) or another Regional Internet Registry (RIR). Send us an introductory message through our online contact form which includes your ASN and other basic data about your company/organization. Please also indicate which services you wish to receive from us. We will reply as soon as possible and provide guidance throughout the rest of the joining process.</description>
     </item>
-    
     <item>
       <title>Brian Longwe</title>
-      <link>/team/peter-van-eijk/</link>
+      <link>//localhost:1313/team/peter-van-eijk/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      
-      <guid>/team/peter-van-eijk/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
+      <guid>//localhost:1313/team/peter-van-eijk/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.&#xA;Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
     </item>
-    
     <item>
       <title>Services &amp; Membership</title>
-      <link>/services/services-members/</link>
+      <link>//localhost:1313/services/services-members/</link>
       <pubDate>Wed, 28 Nov 2018 15:14:39 +1000</pubDate>
-      
-      <guid>/services/services-members/</guid>
-      <description>Service   LIONEX provides neutral, reliable, high-speed peering infrastructure.
-  We support bilateral and multilateral peering via IPv4 and IPv6.
-  Our diverse membership includes local access providers, regional carriers, content providers, the Root DNS, and more.
-  Members   Members must have their own network infrastructure, autonomous system number (ASN) and block of IPv4 and/or IPv6 address space.
-  Peering members shall be Network Operators such as ISPs, ICPs, CDNs and any entity that needs to exchange traffic with the other IXP members</description>
+      <guid>//localhost:1313/services/services-members/</guid>
+      <description>Service LIONEX provides neutral, reliable, high-speed peering infrastructure.&#xA;We support bilateral and multilateral peering via IPv4 and IPv6.&#xA;Our diverse membership includes local access providers, regional carriers, content providers, the Root DNS, and more.&#xA;Members Members must have their own network infrastructure, autonomous system number (ASN) and block of IPv4 and/or IPv6 address space.&#xA;Peering members shall be Network Operators such as ISPs, ICPs, CDNs and any entity that needs to exchange traffic with the other IXP members</description>
     </item>
-    
     <item>
       <title>Innocent Ndubuisi-Obi Jr</title>
-      <link>/team/sage-kirk/</link>
+      <link>//localhost:1313/team/sage-kirk/</link>
       <pubDate>Mon, 19 Nov 2018 10:47:58 +1000</pubDate>
-      
-      <guid>/team/sage-kirk/</guid>
+      <guid>//localhost:1313/team/sage-kirk/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Bibendum arcu vitae elementum curabitur vitae nunc sed. Tortor at risus viverra adipiscing at in.</description>
     </item>
-    
     <item>
       <title>About</title>
-      <link>/about/</link>
+      <link>//localhost:1313/about/</link>
       <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>Mission and Goals LIONEX exists to:
- Promote the growth and stability of the Internet in Malawi Provide a neutral, open facility for internet peering Keep local traffic local Promote best practices in network operations by members Encourage local service hosting and local content development Serve as a connectivity platform for a variety of Internet players including: telecommunications operators, ISPs, research and education networks, universities, and content providers, among others  The Lilongwe Open Neutral Internet Exchange is registered in Malawi as a company limited by guarantee which enables it to operate as a mutual not-for-profit company.</description>
+      <guid>//localhost:1313/about/</guid>
+      <description>Mission and Goals LIONEX exists to:&#xA;Promote the growth and stability of the Internet in Malawi Provide a neutral, open facility for internet peering Keep local traffic local Promote best practices in network operations by members Encourage local service hosting and local content development Serve as a connectivity platform for a variety of Internet players including: telecommunications operators, ISPs, research and education networks, universities, and content providers, among others The Lilongwe Open Neutral Internet Exchange is registered in Malawi as a company limited by guarantee which enables it to operate as a mutual not-for-profit company.</description>
     </item>
-    
     <item>
       <title>Contact</title>
-      <link>/contact/</link>
+      <link>//localhost:1313/contact/</link>
       <pubDate>Thu, 22 Feb 2018 17:01:34 +0700</pubDate>
-      
-      <guid>/contact/</guid>
-      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.
-   Day Opening Hours     Tuesday 8:30am - 5:00pm   Wednesday 8:30am - 5:00pm   Thursday 8:30am - 5:00pm   Friday 8:30am - 5:00pm   Saturday 10:am - 4:00pm   Sunday Closed    </description>
+      <guid>//localhost:1313/contact/</guid>
+      <description>Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae crimen habet Priamum nec.&#xA;Day Opening Hours Tuesday 8:30am - 5:00pm Wednesday 8:30am - 5:00pm Thursday 8:30am - 5:00pm Friday 8:30am - 5:00pm Saturday 10:am - 4:00pm Sunday Closed </description>
     </item>
-    
   </channel>
 </rss>
