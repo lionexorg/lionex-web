@@ -51,10 +51,10 @@ theme = "hugo-serif-theme"
 
 [menu]
   # Main Menu
-  #[[menu.main]]
-  #    name = "Team"
-  #    url = "/team/"
-  #    weight = 2
+  [[menu.main]]
+      name = "Service"
+      url = "/services/"
+      weight = 3
 
   [[menu.main]]
       name = "About"

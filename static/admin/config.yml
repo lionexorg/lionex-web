@@ -16,9 +16,45 @@ collections:
         file: "content/services/get_connected.md"
         fields:
           - {label: Title, name: title, widget: string}
-          - {label: "Publish Date", name: date, widget: datetime }
+          - {label: "Publish Date", name: date, widget: datetime, date_format:"YYYY-MM-DD", time_format: "THH:mm:ssZ"  }
           - {label: Draft, name: draft, widget: boolean}
           - {label: Featured, name: featured, widget: boolean}
           - {label: Weight, name: weight, widget: number}
           - {label: Body, name: body, widget: markdown}
-
+      - label: "Services"
+        name: "services-main"
+        file: "content/services/_index.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: Description, name: description, widget: string}
+          - {label: "Intro Image", name: intro_image, widget: image, default: "images/illustrations/reading.svg"}
+          - {label: "Intro Position", name: intro_image_absolute, widget: boolean}
+          - {label: Weight, name: weight, widget: number}
+          - {label: "Hidden", name: intro_image_hide_on_mobile, widget: boolean}
+          - {label: Body, name: body, widget: markdown}
+      - label: "Services & Membership"
+        name: "services"
+        file: "content/services/services-members.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Publish Date", name: date, widget: datetime, date_format: "YYYY-MM-DD", time_format: "THH:mm:ssZ"  }
+          - {label: Draft, name: draft, widget: boolean}
+          - {label: Featured, name: featured, widget: boolean}
+          - {label: Weight, name: weight, widget: number}
+          - {label: Body, name: body, widget: markdown}
+      - label: "About"
+        name: "about"
+        file: "content/about.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Publish Date", name: date, widget: datetime, date_format: "YYYY-MM-DD", time_format: "THH:mm:ssZ"  }
+          - {label: Body, name: body, widget: markdown}
+      - label: "Contact"
+        name: "contact"
+        file: "content/contact.md"
+        fields:
+          - {label: Title, name: title, widget: string}
+          - {label: "Publish Date", name: date, widget: datetime, date_format: "YYYY-MM-DD", time_format: "THH:mm:ssZ"  }
+          - {label: Draft, name: draft, widget: boolean}
+          - {label: Layout, name: layout, widget: string}          
+          - {label: Body, name: body, widget: markdown}
